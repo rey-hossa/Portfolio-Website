@@ -737,6 +737,30 @@ body{
   color: white;
 }
 
+.linkbuttons{
+  margin-top: 30px;
+}
+
+.linkbuttons a{
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  margin-top: 20px;
+  margin-right: 10px;
+
+  color: white;
+  text-decoration: none;
+  border: 1px solid white;
+  border-radius: 5px;
+  padding: 8px;
+  width: 100px;
+  text-align: center;
+}
+
+.linkbuttons a:hover{
+  color: black;
+  background-color: white;
+}
+
 /* _______________________________________________ Piani futuri _______________________________________________ */
 
 .piani-futuri-section{
