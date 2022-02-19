@@ -1183,6 +1183,15 @@ hr{
 
 }
 
+@media only screen and (max-width: 401px) {
+  .my-story{
+    padding: 0;
+    padding-top: 10px;
+    padding-left: 3%;
+    padding-right: 3%;
+  }
+}
+
 @media only screen and (min-width: 481px) and (max-width: 767px) {/* Visualizzazione ottimale 600px (Casi straordinari) */
 
   .description{
