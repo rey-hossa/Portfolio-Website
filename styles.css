@@ -739,6 +739,7 @@ body{
 
 .linkbuttons{
   margin-top: 30px;
+  margin-bottom: 10px;
 }
 
 .linkbuttons a{
@@ -1210,10 +1211,6 @@ hr{
 
   .soft-skills{
     width: 80%;
-  }
-
-  .linkbuttons{
-    margin-bottom: 20px;
   }
 
 }
